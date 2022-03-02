@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  text-decoration: none;
+  box-sizing: border-box;
+
+}
+
+.index-content {
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: 100% 5%;
+  position: relative;
+  justify-content: center;
+  display: block;
+}
+
+.free-shipping {
+  justify-content: center;
+  display: flex;
+  padding-top: 5px;
+  background-color: #f0bb62;
+  color: #064635;
+  font-family: 'Caveat Brush', cursive;
+  height: 32px;
+
+
+}
+
+.main-message-buy {
+  padding-top: 30px;
+  font-family: 'Caveat Brush', cursive;
+  text-align: center;
+  font-size: large;
+
+}
+
+.categories-index img {
+  height: 100px;
+  width: 100px;
+}
+
+.contact-information img {
+  height: 80px;
+  width: 80px;
+}
+
+.carousel-inner img {
+  height: 580px;
+}
+
+.categories-index {
+  padding-top: 20px;
+  display: block;
+  justify-content: center;
+  text-align: center;
+
+}
+
+.title-categories-index {
+  padding-bottom: 30px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 30px;
+
+
+}
+
+.table-categories-line1,
+.table-categories-line2 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.card {
+  background-color: #f4eea9;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+
+}
+
+.card img {
+  display: flex;
+  justify-content: center;
+  height: 250px;
+  width: 100%;
+  padding-bottom: 20px;
+
+}
+
+.btn {
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.contact-information {
+  padding-top: 60px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.img2 {
+  width: 30px;
+}
+
+#img4 {
+  width: 450px;
+  height: 350px;
+  border-radius: 30px;
+}
+
+.img4 {
+  margin-left: 800px;
+  margin-top: 10px;
+  position: absolute;
+}
+
+#img3 {
+  width: 391px;
+  height: 360px;
+  border-radius: 30px;
+}
+
+.img3 {
+  margin-left: 750px;
+  margin-top: 40px;
+  position: absolute;
+  padding-left: 200px;
+  padding-top: 230px;
+}
+
+#img5 {
+  width: 324px;
+  height: 324px;
+  border-radius: 30px;
+}
+
+.img5 {
+  margin-left: 500px;
+  margin-top: 25px;
+  position: absolute;
+  padding-left: 200px;
+  padding-top: 200px;
+}
+
+#slogan {
+  width: 500px;
+  height: 80px;
+  font-size: 30px;
+  font-family: 'Kaushan Script', cursive;
+  text-align: center;
+  margin-left: 170px;
+  margin-top: 50px;
+  color: #F4EDDA;
+  padding: 10px;
+}
+
+#Comment1 {
+  color: white;
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+.Comment1 {
+  width: 430px;
+  height: 100px;
+  margin-left: 210px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container4 {
+  margin-left: 220px;
+}
+
+#btn3 {
+  width: 350px;
+  font-size: 15px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container1 {
+  margin-top: 50px;
+  padding-top: 10px;
+}
+
+.container2 {
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.img6 {
+  padding-top: 40px;
+  padding-left: 30px;
+  width: 130px;
+  height: 130px;
+}
+
+.headlogo {
+  margin-left: 150px;
+}
+
+.text1 {
+  color: #F4EDDA;
+  padding-left: 35px;
+}
+
+.container3 {
+  margin-top: -60px;
+  margin-left: 900px;
+  padding-right: 10px;
+}
+
+.rrss {
+  margin-left: 300px;
+  padding: 40px;
+}
+
+.list3 {
+  float: left;
+}
+
+#loginButton {
+  background-color: #064635;
+  padding: 5px;
+  border: none;
+
+}
+
+#loginButton img {
+  height: 30px;
+  width: 30px;
+}
